@@ -1,0 +1,7 @@
+C:\Users\ZATS\source\repos\Zats_HW3\Zats_HW3\bin\Debug\Zats_HW3.exe.config
+C:\Users\ZATS\source\repos\Zats_HW3\Zats_HW3\bin\Debug\Zats_HW3.exe
+C:\Users\ZATS\source\repos\Zats_HW3\Zats_HW3\bin\Debug\Zats_HW3.pdb
+C:\Users\ZATS\source\repos\Zats_HW3\Zats_HW3\obj\Debug\Zats_HW3.csprojAssemblyReference.cache
+C:\Users\ZATS\source\repos\Zats_HW3\Zats_HW3\obj\Debug\Zats_HW3.csproj.CoreCompileInputs.cache
+C:\Users\ZATS\source\repos\Zats_HW3\Zats_HW3\obj\Debug\Zats_HW3.exe
+C:\Users\ZATS\source\repos\Zats_HW3\Zats_HW3\obj\Debug\Zats_HW3.pdb

@@ -1,0 +1,7 @@
+C:\Users\ZATS\source\repos\Zats_HW_2\Zats_HW_Flowers\obj\Debug\Zats_HW_Flowers.csprojAssemblyReference.cache
+C:\Users\ZATS\source\repos\Zats_HW_2\Zats_HW_Flowers\obj\Debug\Zats_HW_Flowers.csproj.CoreCompileInputs.cache
+C:\Users\ZATS\source\repos\Zats_HW_2\Zats_HW_Flowers\bin\Debug\Zats_HW_Flowers.exe.config
+C:\Users\ZATS\source\repos\Zats_HW_2\Zats_HW_Flowers\bin\Debug\Zats_HW_Flowers.exe
+C:\Users\ZATS\source\repos\Zats_HW_2\Zats_HW_Flowers\bin\Debug\Zats_HW_Flowers.pdb
+C:\Users\ZATS\source\repos\Zats_HW_2\Zats_HW_Flowers\obj\Debug\Zats_HW_Flowers.exe
+C:\Users\ZATS\source\repos\Zats_HW_2\Zats_HW_Flowers\obj\Debug\Zats_HW_Flowers.pdb

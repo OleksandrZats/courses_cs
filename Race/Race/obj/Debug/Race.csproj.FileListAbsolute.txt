@@ -1,0 +1,14 @@
+C:\Users\ZATS\source\repos\Race\Race\bin\Debug\Race.exe.config
+C:\Users\ZATS\source\repos\Race\Race\bin\Debug\Race.exe
+C:\Users\ZATS\source\repos\Race\Race\bin\Debug\Race.pdb
+C:\Users\ZATS\source\repos\Race\Race\obj\Debug\Race.csprojAssemblyReference.cache
+C:\Users\ZATS\source\repos\Race\Race\obj\Debug\Race.csproj.CoreCompileInputs.cache
+C:\Users\ZATS\source\repos\Race\Race\obj\Debug\Race.exe
+C:\Users\ZATS\source\repos\Race\Race\obj\Debug\Race.pdb
+D:\repos\Race\Race\bin\Debug\Race.exe.config
+D:\repos\Race\Race\bin\Debug\Race.exe
+D:\repos\Race\Race\bin\Debug\Race.pdb
+D:\repos\Race\Race\obj\Debug\Race.csprojAssemblyReference.cache
+D:\repos\Race\Race\obj\Debug\Race.csproj.CoreCompileInputs.cache
+D:\repos\Race\Race\obj\Debug\Race.exe
+D:\repos\Race\Race\obj\Debug\Race.pdb

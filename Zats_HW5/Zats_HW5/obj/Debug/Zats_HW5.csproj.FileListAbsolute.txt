@@ -1,0 +1,14 @@
+C:\Users\ZATS\source\repos\Zats_HW5\Zats_HW5\bin\Debug\Zats_HW5.exe.config
+C:\Users\ZATS\source\repos\Zats_HW5\Zats_HW5\bin\Debug\Zats_HW5.exe
+C:\Users\ZATS\source\repos\Zats_HW5\Zats_HW5\bin\Debug\Zats_HW5.pdb
+C:\Users\ZATS\source\repos\Zats_HW5\Zats_HW5\obj\Debug\Zats_HW5.csprojAssemblyReference.cache
+C:\Users\ZATS\source\repos\Zats_HW5\Zats_HW5\obj\Debug\Zats_HW5.csproj.CoreCompileInputs.cache
+C:\Users\ZATS\source\repos\Zats_HW5\Zats_HW5\obj\Debug\Zats_HW5.exe
+C:\Users\ZATS\source\repos\Zats_HW5\Zats_HW5\obj\Debug\Zats_HW5.pdb
+D:\repos\Zats_HW5\Zats_HW5\bin\Debug\Zats_HW5.exe.config
+D:\repos\Zats_HW5\Zats_HW5\bin\Debug\Zats_HW5.exe
+D:\repos\Zats_HW5\Zats_HW5\bin\Debug\Zats_HW5.pdb
+D:\repos\Zats_HW5\Zats_HW5\obj\Debug\Zats_HW5.csprojAssemblyReference.cache
+D:\repos\Zats_HW5\Zats_HW5\obj\Debug\Zats_HW5.csproj.CoreCompileInputs.cache
+D:\repos\Zats_HW5\Zats_HW5\obj\Debug\Zats_HW5.exe
+D:\repos\Zats_HW5\Zats_HW5\obj\Debug\Zats_HW5.pdb

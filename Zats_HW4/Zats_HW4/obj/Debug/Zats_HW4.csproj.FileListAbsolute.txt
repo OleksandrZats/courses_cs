@@ -1,0 +1,14 @@
+C:\Users\ZATS\source\repos\Zats_HW4\Zats_HW4\obj\Debug\Zats_HW4.csprojAssemblyReference.cache
+C:\Users\ZATS\source\repos\Zats_HW4\Zats_HW4\obj\Debug\Zats_HW4.csproj.CoreCompileInputs.cache
+C:\Users\ZATS\source\repos\Zats_HW4\Zats_HW4\bin\Debug\Zats_HW4.exe.config
+C:\Users\ZATS\source\repos\Zats_HW4\Zats_HW4\bin\Debug\Zats_HW4.exe
+C:\Users\ZATS\source\repos\Zats_HW4\Zats_HW4\bin\Debug\Zats_HW4.pdb
+C:\Users\ZATS\source\repos\Zats_HW4\Zats_HW4\obj\Debug\Zats_HW4.exe
+C:\Users\ZATS\source\repos\Zats_HW4\Zats_HW4\obj\Debug\Zats_HW4.pdb
+D:\repos\Zats_HW4\Zats_HW4\bin\Debug\Zats_HW4.exe.config
+D:\repos\Zats_HW4\Zats_HW4\bin\Debug\Zats_HW4.exe
+D:\repos\Zats_HW4\Zats_HW4\bin\Debug\Zats_HW4.pdb
+D:\repos\Zats_HW4\Zats_HW4\obj\Debug\Zats_HW4.csprojAssemblyReference.cache
+D:\repos\Zats_HW4\Zats_HW4\obj\Debug\Zats_HW4.csproj.CoreCompileInputs.cache
+D:\repos\Zats_HW4\Zats_HW4\obj\Debug\Zats_HW4.exe
+D:\repos\Zats_HW4\Zats_HW4\obj\Debug\Zats_HW4.pdb
